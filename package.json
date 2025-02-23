@@ -18,27 +18,27 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "hoek": "1.x.x",
+    "hoek": "6.x.x",
     "boom": "1.x.x",
     "joi": "1.x.x",
     "catbox": "1.x.x",
-    "hawk": "1.x.x",
+    "hawk": "9.x.x",
     "shot": "1.x.x",
     "cryptiles": "1.x.x",
     "iron": "1.x.x",
     "confidence": "0.8.x",
     "async": "0.2.x",
     "multiparty": "2.1.x",
-    "mime": "1.2.x",
+    "mime": "4.0.x",
     "lru-cache": "2.3.x",
     "optimist": "0.6.x",
-    "negotiator": "0.2.x",
-    "semver": "2.0.x"
+    "negotiator": "1.0.x",
+    "semver": "7.7.x"
   },
   "devDependencies": {
     "lab": "1.x.x",
-    "request": "2.22.x",
-    "handlebars": "1.0.x",
+    "request": "2.88.x",
+    "handlebars": "4.7.x",
     "jade": "0.33.x",
     "hapi-plugin-test": "1.x.x",
     "dtrace-provider": "0.2.x"
